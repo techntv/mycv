@@ -1,1 +1,1 @@
-# Đây là dự án CV bằng HTML/CSS mẫu 
+# Buidling CV by HTML
